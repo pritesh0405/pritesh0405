@@ -1,10 +1,25 @@
 # Hi, I'm Pritesh Kumar 👋
 
-### Linux Administrator | DevOps & Cloud Enthusiast | Automation Engineer
+### Linux Administrator (5+ Years) | DevOps & Cloud Engineer in Progress |Vibe Coder | Automation & AI-Assisted Builder
+
+![Linux](https://img.shields.io/badge/Linux-Administration-red)
+![RHEL](https://img.shields.io/badge/RHEL-Enterprise-red)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-black)
+![AWS](https://img.shields.io/badge/AWS-Learning-orange)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-blue)
+![AI](https://img.shields.io/badge/AI-Assisted_Development-purple)
 
 I have 5+ years of experience working with Linux infrastructure, Red Hat environments, automation, virtualization, and enterprise system administration.
 
 My current focus is expanding into DevOps, cloud technologies, AI-assisted development, and freelance consulting while continuing to build production-oriented solutions and automation workflows.
+
+## Currently Working On
+
+- Building ScoreCalci, a sports tournament management platform
+- Expanding hands-on AWS and cloud knowledge
+- Learning Infrastructure as Code with Terraform
+- Building a DevOps and automation portfolio
+- Preparing for freelance consulting opportunities
 
 ---
 
@@ -117,4 +132,4 @@ My goal is to combine infrastructure expertise, cloud technologies, and AI-assis
 
 ---
 
-> Building, learning, automating, and documenting one project at a time.
+> Building practical solutions at the intersection of Linux, automation, cloud, and AI.
